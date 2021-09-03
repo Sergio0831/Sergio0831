@@ -2,6 +2,8 @@
 
 [<img align="left" width="24px" alt="ivcenko" color="#0A66C2" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 
+<br/>
+
 ## A passionate Front End developer from Dublin.
 
 - 🔭 I’m currently working on my new portfolio
