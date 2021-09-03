@@ -28,7 +28,11 @@
 [<img align="left" width="26px" alt="contentful" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/contentful/contentful.png" />]()
 
 <br/>
-<br/>
+
+---
+
+<img align="center" alt="Sergio0831 GitHub Stats" src="github-readme-stats-mu-green.vercel.app/api?username=Sergio0831&show_icons=true&theme=cobalt" />
+</a>
 
 [website]: https://www.ivcenko.name
 [linkedin]: https://www.linkedin.com/in/ivcenko/
