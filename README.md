@@ -35,7 +35,7 @@
 
 ---
 
-![Sergejs Top Langs](https://github-readme-stats-mu-green.vercel.app/api?username=Sergio0831&langs)
+![Sergejs Top Langs](https://github-readme-stats-mu-green.vercel.app/api/top-langs?username=Sergio0831)
 
 [website]: https://www.ivcenko.name
 [linkedin]: https://www.linkedin.com/in/ivcenko/
