@@ -31,11 +31,11 @@
 
 ---
 
-![Sergejs GitHub stats](https://github-readme-stats-mu-green.vercel.app/api?username=Sergio0831&show_icons=true&theme=radical)
+[![Sergejs GitHub stats](https://github-readme-stats-mu-green.vercel.app/api?username=Sergio0831&show_icons=true&theme=radical)](https://github.com/Sergio0831/github-readme-stats)
 
 ---
 
-![Sergejs Top Langs](https://github-readme-stats-mu-green.vercel.app/api/top-langs?username=Sergio0831)
+[![Sergejs Top Langs](https://github-readme-stats-mu-green.vercel.app/api/top-langs?username=Sergio0831&langs_count=8)](https://github.com/Sergio0831/github-readme-stats)
 
 [website]: https://www.ivcenko.name
 [linkedin]: https://www.linkedin.com/in/ivcenko/
