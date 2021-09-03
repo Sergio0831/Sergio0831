@@ -31,8 +31,7 @@
 
 ---
 
-<img align="center" alt="Sergio0831 GitHub Stats" src="github-readme-stats-mu-green.vercel.app/api?username=Sergio0831&show_icons=true&theme=cobalt" />
-</a>
+![Sergejs GitHub stats](https://github-readme-stats-mu-green.vercel.app/api?username=Sergio0831&show_icons=true&theme=radical)
 
 [website]: https://www.ivcenko.name
 [linkedin]: https://www.linkedin.com/in/ivcenko/
