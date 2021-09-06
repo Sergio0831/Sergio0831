@@ -6,7 +6,7 @@
 
 ## A passionate Front End developer from Dublin.
 
-- 🔭 I’m currently working on my new portfolio
+- 🔭 I’m currently working on my [new portfolio][portfolio]
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Find my first Front End developer job
 
@@ -39,3 +39,4 @@
 
 [website]: https://www.ivcenko.name
 [linkedin]: https://www.linkedin.com/in/ivcenko/
+[portfolio]: https://ivcenko-new-portfolio.netlify.app/
