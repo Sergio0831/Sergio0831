@@ -6,9 +6,9 @@
 
 ## A passionate Front End developer from Dublin.
 
-- 🔭 I’m currently working on my [new portfolio][portfolio]
-- 🌱 I’m currently learning redux
-- 🥅 2021 Goals: Find my first Front End developer job
+- 🔭 I’m currently working on front end projects
+- 🌱 I’m currently learning algorithms and data structures
+- 🥅 2022 Goals: Find my first Front End developer job
 
 <br/>
 
