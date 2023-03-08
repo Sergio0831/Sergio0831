@@ -19,6 +19,8 @@
 [<img align="left" width="26px" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 [<img align="left" width="26px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" width="26px" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+[<img align="left" width="26px" alt="nextjs" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />]()
+[<img align="left" width="26px" alt="typescript" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />]()
 [<img align="left" width="26px" alt="gatsby" src="https://pics.freeicons.io/uploads/icons/png/18411663001536298193-512.png" />]()
 [<img align="left" width="26px" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />]()
 [<img align="left" width="26px" alt="wordpress" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" />]()
