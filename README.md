@@ -4,18 +4,18 @@
 
 <br/>
 
-## A passionate Front End developer from Dublin.
+## A passionate Front End Web Developer from Dublin.
 
-- 🔭 I’m currently working on front end projects
-- 🌱 I’m currently learning algorithms and data structures
-- 🥅 2022 Goals: Find my first Front End developer job
+- 🧑‍🎓 I’m currently a student at CDETB Front End Web Developer Traineeship
+- 🌱 In parallel with a course, I'm learning Angular
+- 🥅 2023 - 2024 Goals: Find my first Front End Web developer job
 
 <br/>
 
 ### Languages and Tools
 
-[<img align="left" width="26px" alt="HTML" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
-[<img align="left" width="26px" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]()
+[<img align="left" width="26px" alt="HTML" src="./icons/html5.png" />]()
+[<img align="left" width="26px" alt="css" src="./icons/css3.png" />]()
 [<img align="left" width="26px" alt="sass" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 [<img align="left" width="26px" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" width="26px" alt="typescript" src="https://res.cloudinary.com/drnfipu1s/image/upload/v1644668374/github-icons/typescript_original_logo_icon_146317_lk6yy4.png" />]()
