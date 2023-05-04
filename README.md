@@ -14,20 +14,20 @@
 
 ### Languages and Tools
 
-[<img align="left" width="26px" alt="HTML" src="./icons/html.png" />]()
+[<img align="left" width="26px" alt="html" src="./icons/html.png" />]()
 [<img align="left" width="26px" alt="css" src="./icons/css.png" />]()
 [<img align="left" width="26px" alt="sass" src="./icons/sass.png" />]()
 [<img align="left" width="26px" alt="javascript" src="./icons/js.png" />]()
 [<img align="left" width="26px" alt="typescript" src="./icons/ts.png" />]()
-[<img align="left" width="26px" alt="nextjs" src="./icons/react.png" />]()
-[<img align="left" width="26px" alt="react" src="./icons/next.png" />]()
-[<img align="left" width="26px" alt="gatsby" src="./icons/angular.png" />]()
-[<img align="left" width="26px" alt="redux" src="./icons/wordpress.png" />]()
+[<img align="left" width="26px" alt="react" src="./icons/react.png" />]()
+[<img align="left" width="26px" alt="nextjs" src="./icons/nextjs.png" />]()
+[<img align="left" width="26px" alt="angular" src="./icons/angular.png" />]()
+[<img align="left" width="26px" alt="wordpress" src="./icons/wordpress.png" />]()
 [<img align="left" width="26px" alt="graphql" src="./icons/graphql.png" />]()
-[<img align="left" width="26px" alt="wordpress" src="./icons/redux.png" />]()
-[<img align="left" width="26px" alt="vscode" src="./icons/java.png" />]()
-[<img align="left" width="26px" alt="bootstrap" src="./icons/vscode.png" />]()
-[<img align="left" width="26px" alt="bootstrap" src="./icons/github.png" />]()
+[<img align="left" width="26px" alt="redux" src="./icons/redux.png" />]()
+[<img align="left" width="26px" alt="java" src="./icons/java.png" />]()
+[<img align="left" width="26px" alt="vscode" src="./icons/vscode.png" />]()
+[<img align="left" width="26px" alt="github" src="./icons/github.png" />]()
 
 <br/>
 
